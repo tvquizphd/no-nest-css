@@ -1,0 +1,17 @@
+{
+  "name": "no-nest-css",
+  "version": "1.0.0",
+  "description": "Remove nesting from CSS",
+  "main": "index.js",
+  "type": "module",
+  "files": [
+    "LICENSE",
+    "README.md",
+    "index.js"
+  ],
+  "scripts": {
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
